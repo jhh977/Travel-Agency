@@ -22,8 +22,8 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
+        git config --global user.name "jhh977"
+        git config --global user.email "jihadhijazi977@gmail.com"
         git add .
         git status
         git commit -m "Automatically updated submodules" || echo "No changes to commit"
