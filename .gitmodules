@@ -1,0 +1,6 @@
+[submodule "Travel-Agency-Frontend"]
+	path = Travel-Agency-Frontend
+	url = https://github.com/jhh977/Travel-Agency-Frontend.git
+[submodule "Travel-Agency-Backend"]
+	path = Travel-Agency-Backend
+	url = https://github.com/jhh977/Travel-Agency-Backend.git
